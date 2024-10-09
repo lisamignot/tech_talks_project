@@ -1,1 +1,1 @@
-console.log("ola");
+AOS.init();
